@@ -1,5 +1,5 @@
 // 13 https://leetcode.com/problems/roman-to-integer/
-class Solution {
+class RomanToInteger {
     val numbers = mapOf(
         'I' to 1,
         'V' to 5,
