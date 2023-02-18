@@ -1,4 +1,4 @@
-package algoexpert;
+package algoexpert.trees;
 
 // https://www.algoexpert.io/questions/node-depths
 public class NodeDepths {

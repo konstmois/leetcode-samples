@@ -1,4 +1,4 @@
-package algoexpert;
+package algoexpert.graphs;
 
 import java.util.ArrayList;
 import java.util.List;

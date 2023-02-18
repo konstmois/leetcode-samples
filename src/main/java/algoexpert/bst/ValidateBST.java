@@ -1,10 +1,9 @@
-package algoexpert;
+package algoexpert.bst;
 
-import java.util.Objects;
 
 import static java.util.Objects.isNull;
 
-//https://www.algoexpert.io/questions/validate-bst
+// https://www.algoexpert.io/questions/validate-bst
 public class ValidateBST {
 
     public static boolean validateBst(BST tree) {

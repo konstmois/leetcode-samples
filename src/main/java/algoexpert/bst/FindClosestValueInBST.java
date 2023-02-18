@@ -1,5 +1,6 @@
-package algoexpert;
+package algoexpert.bst;
 
+// https://www.algoexpert.io/questions/find-closest-value-in-bst
 public class FindClosestValueInBST {
     public static int findClosestValueInBst(BST tree, int target) {
         BST current = tree;

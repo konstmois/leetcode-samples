@@ -1,10 +1,11 @@
-package algoexpert;
+package algoexpert.arrays;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 
+// https://www.algoexpert.io/questions/three-number-sum
 public class ThreeNumberSum {
 
     public static List<Integer[]> threeNumberSum(int[] array, int targetSum) {

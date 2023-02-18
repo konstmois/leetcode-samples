@@ -1,4 +1,4 @@
-package algoexpert;
+package algoexpert.bst;
 
 //https://www.algoexpert.io/questions/bst-construction
 public class BSTConstruction {

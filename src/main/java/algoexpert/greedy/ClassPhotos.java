@@ -1,8 +1,9 @@
-package algoexpert;
+package algoexpert.greedy;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 
+// https://www.algoexpert.io/questions/class-photos
 public class ClassPhotos {
 
     public boolean classPhotos(ArrayList<Integer> redShirtHeights, ArrayList<Integer> blueShirtHeights) {

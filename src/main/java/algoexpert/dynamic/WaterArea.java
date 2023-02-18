@@ -1,6 +1,6 @@
-package algoexpert;
+package algoexpert.dynamic;
 
-//https://www.algoexpert.io/questions/water-area
+// https://www.algoexpert.io/questions/water-area
 public class WaterArea {
 
     public static int waterArea(int[] heights) {

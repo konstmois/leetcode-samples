@@ -1,4 +1,4 @@
-package algoexpert;
+package algoexpert.arrays;
 
 // https://www.algoexpert.io/questions/sorted-squared-array
 public class SortedSquaredArray {

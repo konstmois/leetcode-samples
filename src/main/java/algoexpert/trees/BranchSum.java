@@ -1,8 +1,8 @@
-package algoexpert;
+package algoexpert.trees;
 
 import java.util.*;
 
-//https://www.algoexpert.io/questions/branch-sums
+// https://www.algoexpert.io/questions/branch-sums
 class BranchSum {
     // This is the class of the input root. Do not edit it.
     public static class BinaryTree {

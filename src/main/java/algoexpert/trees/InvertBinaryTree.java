@@ -1,6 +1,6 @@
-package algoexpert;
+package algoexpert.trees;
 
-//https://www.algoexpert.io/questions/invert-binary-tree
+// https://www.algoexpert.io/questions/invert-binary-tree
 public class InvertBinaryTree {
 
     public static void invertBinaryTree(BinaryTree tree) {
