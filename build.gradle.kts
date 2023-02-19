@@ -15,6 +15,7 @@ repositories {
 
 dependencies {
 	testImplementation("org.springframework.boot:spring-boot-starter-test:2.7.2")
+	implementation("io.github.adven27:env-core:5.0.0")
 }
 
 tasks.withType<KotlinCompile> {
